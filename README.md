@@ -14,7 +14,7 @@ http://localhost:2053/{setTestNetMining}
 http://localhost:2053/setJoinPool/{poolapikey}
 - PoolApikey
 
-- 
+
 You can run only 1 application on a computer.
 must be Physical PC
 
