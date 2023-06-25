@@ -14,7 +14,7 @@ PEP20 - TPRX Mining
 You can run only 1 application on a computer.
 must be Physical PC
 
-## Minimum System Requirements.
+### Minimum System Requirements.
 
 8GB RAM
 20GB SSD Disk
