@@ -6,11 +6,15 @@ ParexLightning is a windows based application.
 You can mine TPRX in this version.
 
 http://localhost:2053/{setPRXUIDCode}
-PEP2 - TPRX Mining
+- PEP2 - TPRX Mining
 
 http://localhost:2053/{setTestNetMining}
-PEP20 - TPRX Mining
+- PEP20 - TPRX Mining
 
+http://localhost:2053/setJoinPool/{poolapikey}
+- PoolApikey
+
+- 
 You can run only 1 application on a computer.
 must be Physical PC
 
