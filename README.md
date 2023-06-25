@@ -19,3 +19,4 @@ must be Physical PC
 8GB RAM
 20GB SSD Disk
 4core CPU
+
