@@ -18,6 +18,6 @@ must be Physical PC
 
 - 8GB RAM
 - 20GB SSD Disk
-- 4code cpu
+- 4core cpu
 
 
