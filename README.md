@@ -16,7 +16,8 @@ must be Physical PC
 
 ### Minimum System Requirements.
 
-8GB RAM
-20GB SSD Disk
-4core CPU
+- 8GB RAM
+- 20GB SSD Disk
+- 4code cpu
+
 
