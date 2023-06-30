@@ -8,7 +8,7 @@ You can mine TPRX in this version.
 http://localhost:2053/setPRXUIDCode/{PRXUIDCODE}
 - PEP2 - TPRX Mining
 
-http://localhost:2053/setTestNetMining/{PEP20 Address}
+http://localhost:2053/setTestNetMining/{PEP20Address}
 - PEP20 - TPRX Mining
 
 http://localhost:2053/setJoinPool/{poolapikey}
