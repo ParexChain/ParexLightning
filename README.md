@@ -1,4 +1,15 @@
+##### v2.9.1
+
+```
+- Status Shapes 
+```
+![image](https://github.com/parexchange/ParexLightning/assets/45968018/1566abea-fcf2-4f79-b59e-61719e2a5328)
+
+
 # ParexLightning
+
+
+
 
 
 ParexLightning is a windows based application.
