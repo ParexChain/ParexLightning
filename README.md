@@ -1,14 +1,11 @@
+# ParexLightning
+
 ##### v2.9.1
 
 ```
 - Status Shapes 
 ```
 ![image](https://github.com/parexchange/ParexLightning/assets/45968018/a3a56768-c6d0-4d0e-8bac-0c8587ed21e0)
-
-
-
-
-# ParexLightning
 
 
 
