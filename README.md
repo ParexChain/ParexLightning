@@ -3,7 +3,8 @@
 ```
 - Status Shapes 
 ```
-![image](https://github.com/parexchange/ParexLightning/assets/45968018/aebb0053-da55-4454-ae91-8ae932720bd3)
+![image](https://github.com/parexchange/ParexLightning/assets/45968018/a3a56768-c6d0-4d0e-8bac-0c8587ed21e0)
+
 
 
 
