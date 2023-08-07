@@ -1,5 +1,13 @@
 # ParexLightning
 
+
+
+##### v2.9.2
+- Faster crawling time for the DNS crawler
+- Fix Windows bugs
+- Fix the simulated backend
+
+
 ##### v2.9.1
 
 ```
