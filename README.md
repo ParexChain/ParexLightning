@@ -1,5 +1,17 @@
 # ParexLightning
 
+##### v2.9.3
+
+![image](https://github.com/parexchange/ParexLightning/assets/45968018/82ee5d85-d2c8-4188-b2bb-42716f22090d)
+
+http://localhost:2053/setCloudTracker/{CommunityCode}
+- CommunityCode - (https://parexscan.io/#/dashboards/dexcommunity)
+
+http://localhost:2053/getPoolWallet/ 
+- Insurance Wallet
+  
+http://localhost:2053/setCompleteInsurancePay/
+- PEP20 - TPRX Mining
 
 
 ##### v2.9.2
