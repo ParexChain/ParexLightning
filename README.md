@@ -7,7 +7,7 @@
 http://localhost:2053/setCloudTracker/{CommunityCode}
 - CommunityCode - (https://parexscan.io/#/dashboards/dexcommunity)
 
-http://localhost:2053/getPoolWallet/ 
+http://localhost:2053/getInsuranceWallet/ 
 - Insurance Wallet
   
 http://localhost:2053/setCompleteInsurancePay/
