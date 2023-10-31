@@ -2,9 +2,7 @@
 
 ##### v2.9.4
 - Fix Connection bugs
-
-![image](https://github.com/parexchange/ParexLightning/assets/45968018/7fe26670-03fb-4120-9193-b2acd71a1938)
-
+![image](https://github.com/parexchange/ParexLightning/assets/45968018/f2a3b440-3692-4c61-9083-d271b4092464)
 
 
 ##### v2.9.3
