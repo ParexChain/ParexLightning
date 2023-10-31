@@ -1,8 +1,8 @@
 # ParexLightning
 
 ##### v2.9.4
-- Fix Connection bugs
-![image](https://github.com/parexchange/ParexLightning/assets/45968018/f2a3b440-3692-4c61-9083-d271b4092464)
+
+- Fix Connection bugs![image](https://github.com/parexchange/ParexLightning/assets/45968018/f2a3b440-3692-4c61-9083-d271b4092464)
 
 
 ##### v2.9.3
