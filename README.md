@@ -1,4 +1,8 @@
 # ParexLightning
+##### v2.9.4b
+- Adding Announment Section
+
+![image](https://github.com/ParexChain/ParexLightning/assets/45968018/f19ed7ad-765d-40cc-9827-e6a6801a2f71)
 
 ##### v2.9.4
 
